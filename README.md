@@ -355,4 +355,4 @@ public function fetchData()
 }
 ```
 
-This documentation covers the essential steps for integrating MySQL and PostgreSQL in Laravel, using Filament for the interface and Leaflet.js for visualizing spatial data. Feel free to add additional details or customize the documentation according to your specific needs!
+
